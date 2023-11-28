@@ -18,7 +18,8 @@ This will probably get skinny. Read it on the wiki.
 
 ### Where can I find documentation?
 
-Visit the embux website at https://embuxlinux.github.io
+Visit the embux website at https://embuxlinux.github.io. We have a [wiki](https://github.com/TylerMS887/embux/wiki) too
+:-)
 
 ## License
 
