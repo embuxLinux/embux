@@ -1,0 +1,6 @@
+[submodule "kernel"]
+	path = kernel
+	url = https://github.com/torvalds/linux
+[submodule "busybox"]
+	path = busybox
+	url = https://github.com/mirror/busybox
