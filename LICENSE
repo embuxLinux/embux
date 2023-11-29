@@ -1,3 +1,10 @@
+The "busybox" and "kernel" directories are licensed strictly under
+the GPL-2.0 license ONLY. This is because they contain large amounts
+of code under this license.
+
+All other source code is licensed under the GPL-3.0 license or later.
+Verbatim copy below.
+---------------------------------------------------------------------
                     GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
 
