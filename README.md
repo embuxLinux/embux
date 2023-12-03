@@ -1,4 +1,4 @@
-![Logo](https://github.com/embuxLinux/embux/assets/115214762/d188296b-8927-41a4-8e6d-084c3b2726a9#gh-light-mode-only) ![Logo](https://github.com/embuxLinux/embux/assets/115214762/7110c36f-1b6c-44db-a4e3-e271accd93b5#gh-dark-mode-only)
+# ![Logo](https://github.com/embuxLinux/embux/assets/115214762/d188296b-8927-41a4-8e6d-084c3b2726a9#gh-light-mode-only) ![Logo](https://github.com/embuxLinux/embux/assets/115214762/7110c36f-1b6c-44db-a4e3-e271accd93b5#gh-dark-mode-only)
 
 Embux is a lightweight Linux distro for embedded devices. It's so light, it makes feathers look heavy. It's perfect for those
 who want to tinker with their gadgets without sacrificing performance or stability.
