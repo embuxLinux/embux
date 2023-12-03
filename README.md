@@ -35,3 +35,7 @@ Visit the embux website at https://embuxlinux.github.io. We have a [wiki](https:
 * All files under the `kernel` and `busybox` directories are under the GPL 2.0 license as they are mirrors
   of projects under those licenses.
 * All other files are under the GPL 3.0 license or later. We believe in free software and sharing knowledge.
+
+## Support
+
+Check the subreddit at [r/embuxOS](https://old.reddit.com/r/embuxOS).
